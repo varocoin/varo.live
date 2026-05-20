@@ -141,6 +141,20 @@ h1{
   color:black;
 }
 
+/* DISCORD */
+
+.discord{
+  background:#f0b90b;
+  color:black;
+
+  box-shadow:
+    0 0 25px rgba(88,101,242,0.35);
+}
+
+.discord:hover{
+  transform:translateY(-4px) scale(1.03);
+}
+
 /* COINS */
 
 .coin{
